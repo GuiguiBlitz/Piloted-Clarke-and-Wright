@@ -1,6 +1,8 @@
 # Piloted-Clarke-and-Wright
 A piloted implementation of the Clarke and Wright's savings algorithm on TSP.
 
+The algorithm itself is in /src/dii/vrp/tp/PilotedClarkeAndWright.java
+
 ### Instalation
 * Create a java project with the sources
 * In the class TClarkeAndWright edit the path variable to point to the CMT data files
